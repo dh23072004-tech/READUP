@@ -1,0 +1,8 @@
+{
+  "name": "Remix ReadUp",
+  "description": "Ứng dụng đọc sách số tương tác, giúp học sinh tiểu học Việt Nam luyện đọc và theo dõi tiến trình học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
